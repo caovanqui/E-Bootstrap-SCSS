@@ -1,0 +1,599 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Nhẫn"
+    },
+    {
+      "id": "2",
+      "name": "Vòng tay"
+    },
+    {
+      "id": "3",
+      "name": "Dây chuyền"
+    },
+    {
+      "id": "4",
+      "name": "Bông tai"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Nhẫn Bạc Pandora Moments Mặt Trái Tim Đính Đá",
+      "price": 5000,
+      "old-price": "2499$",
+      "img": "ring-1.jpg",
+      "categories_id": 1,
+      "hot": true,
+      "popular": true,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Charm Bạc Pandora Moments Tháng Sinh Tháng 6 Ngọc Trai",
+      "price": 2000,
+      "old-price": "2499$",
+      "img": "ring-2.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Nhẫn Bạc Pandora Me Đính Đá Xanh Sinh Tháng 7 Trầm Tích",
+      "price": 3200,
+      "old-price": "2499$",
+      "img": "ring-3.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nhẫn Bạc Pandora Moments Mạ Vàng Hồng 14k Hình Trái Tim",
+      "price": 1400,
+      "old-price": "2499$",
+      "img": "ring-4.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Nhẫn Bạc Pandora Mạ Vàng Hồng 14K Hình Xương Đòn Đính Đá",
+      "price": 2400,
+      "old-price": "2499$",
+      "img": "ring-5.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Được chế tác từ bạc sterling, chiếc Nhẫn Polished Wave của chúng tôi uốn cong để giống như sự chuyển động của một đợt sóng, với bề mặt được đánh bóng mịn. Xếp chồng nhiều chiếc nhẫn bạc sterling cùng nhau hoặc kết hợp với phiên bản pavé trong các gam màu kim loại khác nhau để tạo nên một diện mạo đương đại mà bạn sẽ yêu thích suốt nhiều năm tới.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "ring-5.jpg",
+        "ring-5.1.png",
+        "ring-5.jpg",
+        "ring-5.2.png"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nhẫn Pandora Moments Mạ Vàng Hồng 14k Tráng Men Đen",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "ring-6.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lắc tay bạc nữ đính pha lê Swarovski trái tim của biển LILI_579467",
+      "price": 2149,
+      "old-price": "249",
+      "img": "product-popular-1.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Lắc tay bạc Ta S999 nữ cỏ 4 lá cách điệu đẹp LILI_661577",
+      "price": 1899,
+      "old-price": "2499$",
+      "img": "product-2.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Lắc tay bạc nữ đính đá CZ hình trái tim Heart Of The Sea LILI_427425",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "product-3.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Lắc tay bạc nữ đính đá CZ thỏ ngắm trăng LILI_722163",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "product-1.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Lắc tay bạc nữ đính đá CZ hình ngôi sao 5 cánh LILI_532223",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "bracelet-1.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Vòng tay bạc nữ dạng kiềng đính đá pha lê Eye of the muse LILI_814348",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "product-4.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Hoa Tai Bạc Pandora Timeless Đính Ngọc Trai Cỡ Lớn",
+      "price": 1700,
+      "img": "product-popular-2.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": false
+    },
+    {
+      "id": "14",
+      "name": "Hoa Tai Bạc Pandora Timeless Vòng Đá Phối Ngọc Trai",
+      "price": 1349,
+      "old-price": "2499$",
+      "img": "earrings-2.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Hoa Tai Bạc Pandora Timeless Dạng Rơi Chuỗi Đá",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "earrings-3.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Hoa Tai Pandora Timeless Mạ Vàng 14K Đính Ngọc Trai",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "earrings-4.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Hoa Tai Bạc Pandora Timeless Dạng Rơi Đính Ngọc Trai",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "earrings-5.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Hoa Tai Bạc Pandora Timeless Đính Đá Tròn Vầng Sáng Halo",
+      "price": 1700,
+      "old-price": "2499$",
+      "img": "earrings-6.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Dây Chuyền Bạc Pandora Moments Dạng Dây Xích",
+      "price": 1989,
+      "old-price": "2499$",
+      "img": "necklace-1.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Dây chuyền Bạc Pandora Timeless Đính Đá Tròn Vầng Sáng Halo",
+      "price": 1729,
+      "old-price": "2499$",
+      "img": "necklace-2.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Dây Chuyền Bạc Pandora Timeless Đính Ngọc Trai",
+      "price": 1558,
+      "old-price": "2499$",
+      "img": "necklace-3.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": false,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Dây Chuyền Pandora Timeless Mạ Vàng 14K Đính Ngọc Trai",
+      "price": 1139,
+      "old-price": "2499$",
+      "img": "necklace-4.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Dây Chuyền Bạc Pandora Timeless Đính Ngọc Trai",
+      "price": 7858,
+      "old-price": "2499$",
+      "img": "necklace-5.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Dây Chuyền Pandora Timeless Mạ Vàng 14K Đính Ngọc Trai",
+      "price": 3200,
+      "old-price": "2499$",
+      "img": "necklace-6.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Dây Chuyền Bạc Pandora Moments Dạng Xích Nút Thắt Dài",
+      "price": 1139,
+      "old-price": "2499$",
+      "img": "necklace-7.jpeg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Dây Chuyền Bạc Pandora Signature Ba Mặt Tròn Đính Đá",
+      "price": 7459,
+      "old-price": "2499$",
+      "img": "necklace-8.jpg",
+      "categories_id": 3,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Vòng Bạc Pandora Moments Với Thanh Khắc Chữ",
+      "price": 259,
+      "old-price": "2499$",
+      "img": "bracelet-3.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Vòng Bạc Pandora Moments Khóa Trái Tim Và Cây Gia Đình",
+      "price": 1245,
+      "old-price": "2499$",
+      "img": "bracelet-4.jpg",
+      "categories_id": 2,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Nhẫn Bạc Pandora Moments Đá Tháng Sinh Tháng 8 Pha Lê Ngọc Bích",
+      "price": 1545,
+      "old-price": "2499$",
+      "img": "ring-7.jpg",
+      "categories_id": 1,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Hoa Tai Bạc Pandora Signature Hình Tròn Đính Đá Xung Quanh",
+      "price": 1245,
+      "old-price": "2499$",
+      "img": "earrings-7.jpg",
+      "categories_id": 4,
+      "hot": false,
+      "popular": false,
+      "sale": true,
+      "des": "Mang đến cho ngăn xếp nhẫn của bạn một chút tình yêu với việc bổ sung Vòng trái tim tự do của chúng tôi, chiếc nhẫn này sẽ hoàn toàn phù hợp với các thiết kế yêu thích khác của bạn. Được hoàn thiện thủ công bằng vàng hồng 14k, mỗi chiếc nhẫn có hình trái tim tự do, biểu tượng của tình yêu hoàn hảo không hoàn hảo. Khi nói đến trái tim, nhiều hơn là nhiều hơn, vì vậy hãy xếp chồng lên nhau trong một tông màu duy nhất hoặc ghép nó với những chiếc nhẫn khác của bạn để có vẻ ngoài kim loại pha trộn thời trang và hiện đại.",
+      "date": "22-12-2023",
+      "thumbnail_img": [
+        "product-detail-1.1.jpg",
+        "product-detail-1.2.jpg",
+        "product-detail-1.3.jpg",
+        "product-popular-1.jpg"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": "486b",
+      "fullName": "Cao Van Qui",
+      "phoneNumber": "0358574009",
+      "username": "quimaculin",
+      "password": "123"
+    },
+    {
+      "id": "4f4b",
+      "fullName": "Van Qui",
+      "phoneNumber": "0358574009",
+      "username": "qui",
+      "password": "123"
+    }
+  ]
+}

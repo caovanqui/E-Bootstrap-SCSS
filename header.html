@@ -1,0 +1,102 @@
+<nav class="navbar navbar-expand-lg" ng-controller="myctrl">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img class="header-logo" src="img/logo.png" alt="" width=""></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a ng-class="{'active': isActive('/home') || isActive('/')}"
+                        class="nav-link nav-hover small-12 me-2 fw-lighter" aria-current="page" href="#!home">TRANG
+                        CHỦ</a>
+                </li>
+                <li class="nav-item">
+                    <div class="dropdown">
+                        <a ng-class="{'active': isActive('/product/all') || isActive('/product/1') || isActive('/product/2') || isActive('/product/3') || isActive('/product/4')}"
+                            class="nav-link nav-hover small-12 me-2 fw-lighter dropdown-toggle" aria-current="page"
+                            href="#!product" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SẢN PHẨM
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#!product/all">Tất cả sản phẩm</a></li>
+                            <!-- <li><a class="dropdown-item" href="#">Nhẫn</a></li>
+                            <li><a class="dropdown-item" href="#">Vòng tay</a></li>
+                            <li><a class="dropdown-item" href="#">Dây chuyển</a></li>
+                            <li><a class="dropdown-item" href="#">Bông tai</a></li> -->
+                            <li ng-repeat="category in dssp.categories">
+                                <a class="dropdown-item" href="#!product/{{category.id}}">{{ category.name }}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-hover small-12 me-2 fw-lighter" href="#">VỀ CHÚNG TÔI</a>
+                </li>
+                <li class="nav-item">
+                    <a ng-class="{'active': isActive('/contact')}" class="nav-link nav-hover small-12 me-2 fw-lighter"
+                        href="#!contact">LIÊN HỆ</a>
+                </li>
+                <li class="nav-item">
+                    <a ng-class="{'active': isActive('/news')}" class="nav-link nav-hover small-12 me-2 fw-lighter"
+                        href="#!news">TIN TỨC</a>
+                </li>
+                <div class="hstack gap-3 gap-lg-1">
+                    <li class="nav-item">
+                        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </button>
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="exampleModalLabel">Tìm kiếm</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <input type="search" ng-model="keyword" class="form-control"
+                                            placeholder="Tìm kiếm sản phẩm">
+                                    </div>
+                                    <div class="modal-footer">
+                                        <input type="button" ng-click="searchProduct(keyword)" data-bs-dismiss="modal"
+                                            class="btn btn-secondary" value="Tim">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-bs-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- <a class="nav-link"><i class="fa-solid fa-magnifying-glass"></i></a> -->
+                    </li>
+                    <li class="nav-item" ng-show="!isLoggedIn">
+                        <a ng-class="{'active': isActive('/login')}" class="nav-link" href="#!login">
+                            <i class="fa-solid fa-user"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item" ng-show="isLoggedIn">
+                        <a ng-class="{'active': isActive('/userprofile')}" class="nav-link" href="#!userprofile">
+                            <i class="fa-solid fa-user"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a ng-class="{'active': isActive('/cart')}" class="nav-link position-relative header-fa-cart"
+                            href="#!cart">
+                            <i ng-if="cart.length === 0" class="fa-solid fa-cart-shopping"></i>
+                            <i ng-if="cart.length !== 0" class="fa-solid fa-cart-shopping fa-bounce"></i>
+                            <span
+                                class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-black">
+                                {{cart.length}}
+                                <span class="visually-hidden">unread messages</span>
+                            </span>
+                        </a>
+                    </li>
+                </div>
+            </ul>
+        </div>
+    </div>
+</nav>
